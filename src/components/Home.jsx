@@ -34,7 +34,7 @@ function Home() {
           >
             <img
               src={pic}
-              className="rounded-full md:w-[400px] md:h-[400px]"
+              className="rounded-full md:w-[350px] md:h-[350px]"
               alt=""
             />
           </div>
