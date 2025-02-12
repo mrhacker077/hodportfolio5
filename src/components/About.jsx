@@ -39,8 +39,7 @@ function About() {
             Education & Training
           </h2>
           <p className="text-gray-700">
-            I have completed BE(Mech) at P.S College of
-            Engineering, Mandya, Karnataka. MTECH in CIM at Sahyadri College of Engineering. And currently working as Selection
+            I have completed BE(Mech) at M.C.E Hassan, Karnataka And currently working as Selection
             Grade Lecturer/HOD in KPT Mangalore, Karnataka.
           </p>
         </div>
@@ -69,9 +68,10 @@ Proficient in automobile engineering principles, experienced in vehicle design, 
             Professional Experience
           </h2>
           <p className="text-gray-700">
-            Joined the MECH department as a lecturer from 1994 to 2021 at Karnataka Government Polytechnic, Kadrihills, Mangalore.
-            And from 2021 to 2024 served as principal at Government Polytechnic Udupi, Udupi.
-            Currently serving as the Head of the Mechanical Engineering Department at Karnataka Govt. Polytechnic, Mangalore.
+            Joined the L.V.P Hassan from 1999 to 2006. <br /> 
+            then joined G.P.T Vijayapura and served as lecturer of automobile department for 6 months and again joined L.V.P Hassan till 2015.<br />
+            worked in G.P.T Kartagi for 1 year and joined K.P.T in 2016 as HOD of Automobile department. <br />
+
           </p>
         </div>
 
